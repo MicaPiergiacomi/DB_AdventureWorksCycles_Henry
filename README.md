@@ -18,8 +18,7 @@ El presente informe tiene como objetivo proporcionar una visión integral y deta
 
 ## Desarrollo del proyecto
 
-### Avance 1
-#### Conexión y Limpieza de Datos
+### Avance 1: Conexión y Limpieza de Datos
 
 -Se restauró en SQL la base ‘AdventureWorksDW2019’.
   
@@ -30,22 +29,19 @@ El presente informe tiene como objetivo proporcionar una visión integral y deta
 -Acciones: Eliminación de filas en blanco; Eliminación de columnas vacías; Unificación de columnas; Combinacion de tablas; Reemplazo los valores ‘null’ en las columnas.
 
 
-### Avance 2: 
-#### El enfoque principal esta en preparar los datos para futuros analisis.
+### Avance 2: El enfoque principal esta en preparar los datos para futuros analisis.
 
 -En este segundo avance del proyecto, se centró en el diseño tanto del modelo relacional eficiente en Power BI como en la creación de un mockup del informe que guiará el producto final. Para abordar el problema de negocio planteado, se buscó desarrollar un reporte que ofreciera una visión clara y detallada de los ingresos, costos, rentabilidad y otros indicadores clave a nivel de la compañía, con un enfoque especial en el mercado de Estados Unidos.
 
 -El reporte diseñado debe responder a una serie de preguntas clave, incluyendo el total de ingresos del período actual y anterior, cantidad vendida, utilidad bruta y neta, costo de los bienes vendidos, distribución geográfica de clientes, distribución mensual de ingresos, COGS y utilidad, utilidad por segmento y subcategoría de producto, entre otros.
 
 
-### Avance 3: 
-#### Generar las medidas y columnas calculadas.
+### Avance 3: Generar las medidas y columnas calculadas.
 
 -Utilización de DAX para crear medidas y columnas calculadas que analicen los ingresos, costos y otros indicadores claves. 
 
 
-### Avance 4: 
-#### Creación de tablero y documentacion del proyecto BI.
+### Avance 4: Creación de tablero y documentacion del proyecto BI.
 
 -Se creó el reporte final en Power BI, centrado en los ingresos, costos y rentabilidad, tanto a nivel global como en el mercado de Estados Unidos.
   
