@@ -18,7 +18,7 @@ El presente informe tiene como objetivo proporcionar una visión integral y deta
 ## Desarrollo del proyecto
 
 ### Avance 1:
-**Objetivo:** El enfoque principal esta en preparar los datos para futuros analisis-
+**Objetivo:** El enfoque principal esta en preparar los datos para futuros analisis.
 
 -Se restauró en SQL la base ‘AdventureWorksDW2019’.
   
@@ -30,14 +30,15 @@ El presente informe tiene como objetivo proporcionar una visión integral y deta
 
 
 ### Avance 2: 
-**Objetivo:** El enfoque principal esta en preparar los datos para futuros analisis
+**Objetivo:** El enfoque principal esta en preparar los datos para futuros analisis.
+
 -En este segundo avance del proyecto, se centró en el diseño tanto del modelo relacional eficiente en Power BI como en la creación de un mockup del informe que guiará el producto final. Para abordar el problema de negocio planteado, se buscó desarrollar un reporte que ofreciera una visión clara y detallada de los ingresos, costos, rentabilidad y otros indicadores clave a nivel de la compañía, con un enfoque especial en el mercado de Estados Unidos.
 
 -El reporte diseñado debe responder a una serie de preguntas clave, incluyendo el total de ingresos del período actual y anterior, cantidad vendida, utilidad bruta y neta, costo de los bienes vendidos, distribución geográfica de clientes, distribución mensual de ingresos, COGS y utilidad, utilidad por segmento y subcategoría de producto, entre otros.
 
 
 ### Avance 3: 
-**Objetivo:** Generar las medidas y columnas calculadas
+**Objetivo:** Generar las medidas y columnas calculadas.
 
 -Utilización de DAX para crear medidas y columnas calculadas que analicen los ingresos, costos y otros indicadores claves. 
 
