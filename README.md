@@ -1,10 +1,10 @@
 # Visualizando el Rendimiento Adventure Works Cycles
 
-Adventure Works Cycles (AWC), una empresa multinacional líder en la fabricación y distribución de bicicletas, piezas y accesorios. 
+Adventure Works Cycles (AWC) es una empresa multinacional líder en la fabricación y distribución de bicicletas, piezas y accesorios. 
 
 El presente informe tiene como objetivo proporcionar una visión integral y detallada del rendimiento de ventas de AWC mediante el uso de la plataforma Power BI. A través de análisis exhaustivos y visualizaciones interactivas, este informe permitirá a los usuarios finales comprender mejor los factores que influyen en las ventas, los costos asociados y la rentabilidad general de la empresa. Además, servirá como una herramienta invaluable para la toma de decisiones estratégicas, al proporcionar información clave y perspicaz para identificar áreas de mejora y oportunidades de crecimiento.
 
-### Objetivos:
+## Objetivos:
 
 • **Mejora de la calidad de los datos**: A través de procesos de limpieza y validación de datos efectivos, se garantiza la fiabilidad y precisión de la información utilizada en el análisis.
 
