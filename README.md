@@ -64,7 +64,7 @@ El presente informe tiene como objetivo proporcionar una visión integral y deta
 Encabezado:
 Logotipo de Adventure Works Cycles: Establece la identidad corporativa.
 
-1.Resumen Financiero: KPI 
+1. Resumen Financiero: KPI 
 INGRESOS: $9,39 millones.
 UNIDADES VENDIDAS: 21,344 unidades.
 COGS (Costo de los bienes vendidos): $5,49 millones.
@@ -82,18 +82,37 @@ Proporciona un historial de rendimiento financiero año tras año.
 Ingresos Acumulados Anuales: Muestra el crecimiento de ingresos a lo largo del año.
 COGS y Utilidad Bruta por Ciudad: Analiza costos y utilidades a nivel de ciudad, permitiendo identificar regiones más o menos rentables.
 
-2. Gráfico de Barras - Ingresos por Subcategoría:
+5. Gráfico de Barras - Ingresos por Subcategoría:
 Desglose de ingresos por producto, destacando las categorías principales como Road Bikes y Mountain Bikes.
 
 
 ## ANALISIS DE MERCADO ESTADOS UNIDOS
 ![2](https://github.com/MicaPiergiacomi/Visualizacion-Rendimiento-Adventure-Works-Cycles/assets/168442686/b93efd31-d10d-41ca-a649-06e48036b766)
 
+Encabezado:
+Similar al segundo tablero, pero con la opción de "ESTADOS UNIDOS" activada.
+
+1. Resumen Financiero Ampliado:  KPI
+INGRESOS: $29,36 millones.
+UNIDADES VENDIDAS: 60 mil unidades.
+COGS: $17,28 millones.
+UTILIDAD BRUTA: $12,08 millones.
+UTILIDAD NETA: $9,00 millones.
+
+2. Mapa Global - Cantidad de Clientes por País:
+Expande la vista al nivel mundial, mostrando la distribución global de clientes.
+
+3. Gráfico de Barras y Ratios:	
+Utilidad Bruta y Neta por Subcategoría: Compara la rentabilidad de diferentes líneas de productos.
+Ratio Costo Operacional vs LY (Last Year): Ofrece una comparación porcentual del costo operacional actual frente al año anterior.
+
+4. Gráfico de Tendencia Ampliado:
+Ingresos, COGS y Utilidad Bruta por Mes y Año: Proporciona una visión detallada de las tendencias mensuales y anuales, permitiendo análisis de estacionalidad y crecimiento.
 
 
 
 
-## Resultados principales y líneas futuras de análisis
+## Insights y Líneas Futuras de Análisis
 
 El análisis exhaustivo del rendimiento de ventas de Adventure Works Cycles (AWC) ha proporcionado insights valiosos que contribuyen directamente a la toma de decisiones estratégicas en la empresa:
 
@@ -107,7 +126,7 @@ El análisis exhaustivo del rendimiento de ventas de Adventure Works Cycles (AWC
 
 - Eficiencia Operacional: El ratio de costo operacional frente al año anterior muestra un manejo eficiente, aunque con espacio para mejorar en la reducción de costos y optimización de procesos.
 
-- Líneas Futuras de Análisis: Para continuar mejorando la comprensión del rendimiento de AWC y apoyar decisiones aún más informadas, se recomiendan las siguientes líneas de análisis:
+Líneas Futuras de Análisis: Para continuar mejorando la comprensión del rendimiento de AWC y apoyar decisiones aún más informadas, se recomiendan las siguientes líneas de análisis:
 
 - Análisis de Rentabilidad por Producto: Profundizar en el análisis de rentabilidad a nivel de SKU para identificar productos no rentables o que están sub-rendimiento. Esto podría incluir un análisis de la contribución marginal para ajustar la estrategia de precios o promociones.
 
@@ -122,4 +141,13 @@ El análisis exhaustivo del rendimiento de ventas de Adventure Works Cycles (AWC
 - Adopción de Tecnologías Emergentes: Considerar la implementación de tecnologías avanzadas como IA y machine learning para mejorar la precisión de los pronósticos de ventas y operaciones, y para personalizar la experiencia del cliente.
 
 Al seguir estas líneas de análisis, AWC no solo mejorará su entendimiento del negocio actual sino que también podrá anticiparse a los cambios del mercado y ajustar su estrategia operativa y comercial de manera proactiva para mantener su posición de liderazgo en la industria.
+
+
+## Herramientas utilizadas:
+
+- SQL Server
+- Power Bi
+- Power Query
+- DAX
+- Figma
 
