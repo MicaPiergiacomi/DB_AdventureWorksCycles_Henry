@@ -55,6 +55,17 @@ El presente informe tiene como objetivo proporcionar una visión integral y deta
 
 
 
+## PORTADA DASHBOARD
+![0](https://github.com/MicaPiergiacomi/Visualizacion-Rendimiento-Adventure-Works-Cycles/assets/168442686/3e04750f-d7c0-4693-bc01-6e5634c03741)
+
+## ANALISIS GLOBAL
+![1](https://github.com/MicaPiergiacomi/Visualizacion-Rendimiento-Adventure-Works-Cycles/assets/168442686/7c35c9e8-3181-45b7-9815-188b54405b85)
+
+## ANALISIS ESTADOS UNIDOS
+![2](https://github.com/MicaPiergiacomi/Visualizacion-Rendimiento-Adventure-Works-Cycles/assets/168442686/b93efd31-d10d-41ca-a649-06e48036b766)
+
+
+
 ## Resultados principales y líneas futuras de análisis
 
 El análisis exhaustivo del rendimiento de ventas de Adventure Works Cycles (AWC) ha proporcionado insights valiosos que contribuyen directamente a la toma de decisiones estratégicas en la empresa:
