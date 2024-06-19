@@ -58,11 +58,38 @@ El presente informe tiene como objetivo proporcionar una visión integral y deta
 ## PORTADA DASHBOARD
 ![0](https://github.com/MicaPiergiacomi/Visualizacion-Rendimiento-Adventure-Works-Cycles/assets/168442686/3e04750f-d7c0-4693-bc01-6e5634c03741)
 
-## ANALISIS GLOBAL
+## ANALISIS DE MERCADO A NIVEL GLOBAL
 ![1](https://github.com/MicaPiergiacomi/Visualizacion-Rendimiento-Adventure-Works-Cycles/assets/168442686/7c35c9e8-3181-45b7-9815-188b54405b85)
 
-## ANALISIS ESTADOS UNIDOS
+Encabezado:
+Logotipo de Adventure Works Cycles: Establece la identidad corporativa.
+
+1.Resumen Financiero: KPI 
+INGRESOS: $9,39 millones.
+UNIDADES VENDIDAS: 21,344 unidades.
+COGS (Costo de los bienes vendidos): $5,49 millones.
+UTILIDAD BRUTA: $3,90 millones.
+UTILIDAD NETA: $2,92 millones.
+
+2. Mapa - Cantidad de Clientes por Estado:
+Visualiza la distribución geográfica de los clientes en Estados Unidos, ofreciendo una vista rápida de los mercados más fuertes.
+
+3. Tabla de Ingresos Anuales:
+Detalle de ingresos y COGS por año (2010-2014).
+Proporciona un historial de rendimiento financiero año tras año.
+
+4. Gráficos de Tendencia:
+Ingresos Acumulados Anuales: Muestra el crecimiento de ingresos a lo largo del año.
+COGS y Utilidad Bruta por Ciudad: Analiza costos y utilidades a nivel de ciudad, permitiendo identificar regiones más o menos rentables.
+
+2. Gráfico de Barras - Ingresos por Subcategoría:
+Desglose de ingresos por producto, destacando las categorías principales como Road Bikes y Mountain Bikes.
+
+
+## ANALISIS DE MERCADO ESTADOS UNIDOS
 ![2](https://github.com/MicaPiergiacomi/Visualizacion-Rendimiento-Adventure-Works-Cycles/assets/168442686/b93efd31-d10d-41ca-a649-06e48036b766)
+
+
 
 
 
