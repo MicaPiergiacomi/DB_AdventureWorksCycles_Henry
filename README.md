@@ -65,3 +65,35 @@ Combinación de tablas.
   
 -Se creó un grupo de cálculo llamado "Variacion_Tiempo" que agrupe las medidas relacionadas con el período actual, el período anterior, la variación y la variación porcentual. 
 
+
+
+## Resultados principales y líneas futuras de análisis
+
+El análisis exhaustivo del rendimiento de ventas de Adventure Works Cycles (AWC) ha proporcionado insights valiosos que contribuyen directamente a la toma de decisiones estratégicas en la empresa:
+
+- Crecimiento Sostenido de Ingresos: Se observa un aumento constante en los ingresos anuales, lo cual indica un crecimiento sostenible de la empresa en el tiempo, pese a las fluctuaciones del mercado.
+
+- Análisis Geográfico de Clientes: La visualización geográfica muestra que ciertas regiones en Estados Unidos y a nivel global tienen una densidad de clientes significativamente más alta, lo cual podría influir en las decisiones de marketing y expansión.
+
+- Desempeño de Subcategorías de Productos: Las bicicletas de ruta y montaña generan la mayor parte de los ingresos, destacando su popularidad y potencial para inversiones futuras en innovación y marketing.
+
+- Estabilidad en Costos de Operación: Aunque los COGS han permanecido estables, es crucial continuar monitoreándolos para asegurar que no disminuya la rentabilidad con el tiempo.
+
+- Eficiencia Operacional: El ratio de costo operacional frente al año anterior muestra un manejo eficiente, aunque con espacio para mejorar en la reducción de costos y optimización de procesos.
+
+- Líneas Futuras de Análisis: Para continuar mejorando la comprensión del rendimiento de AWC y apoyar decisiones aún más informadas, se recomiendan las siguientes líneas de análisis:
+
+- Análisis de Rentabilidad por Producto: Profundizar en el análisis de rentabilidad a nivel de SKU para identificar productos no rentables o que están sub-rendimiento. Esto podría incluir un análisis de la contribución marginal para ajustar la estrategia de precios o promociones.
+
+- Segmentación de Clientes Más Detallada: Utilizar técnicas de análisis predictivo para segmentar a los clientes no solo por ubicación, sino por comportamiento de compra y preferencias. Esto podría ayudar a personalizar las campañas de marketing y aumentar la eficacia de las mismas.
+
+- Análisis de Tendencias Temporales Más Amplio: Examinar las ventas y la rentabilidad a lo largo del tiempo con un enfoque en la estacionalidad y los eventos económicos globales para prever mejor las fluctuaciones en el rendimiento de la empresa.
+
+- Optimización de la Cadena de Suministro: Analizar más a fondo los procesos de la cadena de suministro para identificar oportunidades de reducción de costos, especialmente en las áreas con altos COGS.
+
+- Impacto de Promociones y Descuentos: Evaluar el impacto real de las promociones y descuentos en los ingresos netos y la lealtad del cliente. Esto puede incluir análisis de regresión para entender la elasticidad-precio de los productos.
+
+- Adopción de Tecnologías Emergentes: Considerar la implementación de tecnologías avanzadas como IA y machine learning para mejorar la precisión de los pronósticos de ventas y operaciones, y para personalizar la experiencia del cliente.
+
+Al seguir estas líneas de análisis, AWC no solo mejorará su entendimiento del negocio actual sino que también podrá anticiparse a los cambios del mercado y ajustar su estrategia operativa y comercial de manera proactiva para mantener su posición de liderazgo en la industria.
+
