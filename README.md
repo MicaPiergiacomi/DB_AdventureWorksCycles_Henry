@@ -15,6 +15,7 @@ El presente informe tiene como objetivo proporcionar una visión integral y deta
 • **Diseño de informes informativos y visuales**: Se diseñan informes visuales atractivos y fáciles de entender, que destacan los KPIs más relevantes y facilitan la identificación de tendencias y patrones significativos.
 
 
+
 ## Desarrollo del proyecto
 
 ### Avance 1:
